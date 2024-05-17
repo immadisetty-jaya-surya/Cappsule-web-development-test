@@ -1,0 +1,26 @@
+    /* Define the dotted border style */
+    .border-dotted {
+        border-style: dotted;
+    }
+    
+    /* Define the glowing green style */
+    .glow-green {
+        /* box-shadow: 0 0 10px #00ff00; */
+        /* font-weight:700; */
+        /* background-color: white; */
+        /* color: rgb(20 83 45 / var(--tw-text-opacity)); */
+        box-shadow: 0px 0px 11.54px 0px rgba(0, 197, 161, 0.4);
+    }
+    
+    /* Define the default button style */
+    .default-button {
+        background-color: white;
+        color: gray;
+    }
+    
+    /* Define the selected button style */
+    .selected-button {
+        background-color: green;
+        color: white;
+    }
+    
